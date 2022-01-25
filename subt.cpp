@@ -5,8 +5,8 @@ int main ()
   int firstnumber , secondnumber , Result ;
 cout<<"Enter two integers : ";
 cin>> firstnumber >> secondnumber ;
-  Result = firstnumber + secondnumber ;
-  cout<< firstnumber << "+" << secondnumber << "=" << Result ;
+  Result = firstnumber - secondnumber ;
+  cout<< firstnumber << "-" << secondnumber << "=" << Result ;
   
   return  0;
 }
